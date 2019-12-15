@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inplicit Intent</string>
+    <string name="call">Call</string>
+    <string name="call_friend">Call Friend</string>
+    <string name="web">WEB</string>
+    <string name="map">Map</string>
+
+</resources>
